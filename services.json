@@ -1,0 +1,43 @@
+[
+  {
+    "name": "item-1",
+    "url": "https://m.pelotkashop.ru/local/ajax/callback.php",
+    "data": {"form_text_6": "%name%",
+    "form_text_7": "+7 (%phone1%) %phone2%-%phone3%-%phone4%",
+    "form_text_8": "urr523@gmail.com",
+    "form_text_5": "https://www.tiiya.ru/catalog/analnye_stimulyatory_bez_vibratsii/vtulka_analnaya_metallicheskaya_s_pushistym_khvostikom_tsveta_miks/",
+    "form_textarea_9": "Просьба позвонить для уточнения деталей",
+    "buy_one_click_submit": "Отправить"}
+  },
+
+  {
+    "name": "item-2",
+    "url": "https://m.pelotkashop.ru/local/ajax/callback.php",
+    "data": {"form_text_6": "%name%",
+    "form_text_7": "+7 (%phone1%) %phone2%-%phone3%-%phone4%",
+    "form_text_8": "urr523@gmail.com",
+    "form_text_5": "https://www.tiiya.ru/catalog/analnye_stimulyatory_bez_vibratsii/vtulka_metallicheskaya_black_faux_fur_rabbit/",
+    "form_textarea_9": "Просьба позвонить для уточнения деталей",
+    "buy_one_click_submit": "Отправить"}
+  },
+  {
+    "name": "item-3",
+    "url": "https://m.pelotkashop.ru/local/ajax/callback.php",
+    "data": {"form_text_6": "%name%",
+    "form_text_7": "+7 (%phone1%) %phone2%-%phone3%-%phone4%",
+    "form_text_8": "urr523@gmail.com",
+    "form_text_5": "https://www.tiiya.ru/catalog/analnye_stimulyatory_bez_vibratsii/analnaya_probka_s_khvostom_grey_fox_metal_1/",
+    "form_textarea_9": "Просьба позвонить для уточнения деталей",
+    "buy_one_click_submit": "Отправить"}
+  },
+  {
+    "name": "item-4",
+    "url": "https://m.pelotkashop.ru/local/ajax/callback.php",
+    "data": {"form_text_6": "%name%",
+    "form_text_7": "+7 (%phone1%) %phone2%-%phone3%-%phone4%",
+    "form_text_8": "urr523@gmail.com",
+    "form_text_5": "https://www.tiiya.ru/catalog/analnye_stimulyatory_bez_vibratsii/analnyy_stimulyator_pretty_love/",
+    "form_textarea_9": "Просьба позвонить для уточнения деталей",
+    "buy_one_click_submit": "Отправить"}
+  }
+]
